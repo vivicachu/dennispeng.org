@@ -1,5 +1,5 @@
 baseURL = "https://www.dennispeng.org"
-title = "Build My Passive Income"
+title = "Dennis Peng Dashboard"
 theme = "hugo-coder"
 languagecode = "zh-cn"
 defaultcontentlanguage = "zh-cn"
