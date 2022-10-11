@@ -35,18 +35,18 @@ FootnoteReturnLinkContents = "↑"
   series = "series"
 
 [params]
-    author = "Dawei Ma"
+    author = "Dennis Peng"
     info1 = "📚"
     info1Tooltip = "Lifelong Learner"
     info2 = "👨‍💻"
     info2Tooltip = "Full-Stack Developer"
     info3 = "💴"
     info3Tooltip = "ETF Trader"
-    description = "Study + Craft + Invest = BMPI.dev"
+    description = "Study + Craft + Invest = dennispeng.org"
     keywords = "life,dev,trade,passive income,money,developer,Self-management,IT technology,investment transactions"
     avatarurl = "images/avatar/5_512.PNG"
     logoImg = "images/logo.png"
-    header = "BMPI.dev"
+    header = "dennispeng.org"
 
     twitter = "madawei2699"
     github = "bmpi-dev"
@@ -173,18 +173,18 @@ FootnoteReturnLinkContents = "↑"
                 url  = "https://twitter.com/madawei2699"
 
     [languages.zh-cn]
-        languagename = "Chinese"
+        languagename = "English"
         title = "构建我的被动收入"
 
         [languages.zh-cn.params]
-            author = "马大伟"
+            author = "Dennis"
             info1 = "📚"
             info1Tooltip = "终身学习/认知杠杆"
             info2 = "👨‍💻"
             info2Tooltip = "全栈技术/时间杠杆"
             info3 = "💴"
             info3Tooltip = "投资理财/财务杠杆"
-            description = "终身学习（认知杠杆）* 全栈技术（时间杠杆）* 投资理财（财务杠杆） => 被动收入（人生杠杆）"
+            description = "Tiny Changes Make a Big Difference      1% BETTER EVERY DAY    Success=Work*Luck*Unfair Advantage"
             # footercontent = "self/dev/money"
 
         [languages.zh-cn.menu]
